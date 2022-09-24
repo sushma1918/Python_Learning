@@ -10,7 +10,7 @@ def wish():
        print("Good Evening!")   
     else:
         print("Good Night dear sushma   ")
-    print("I'm an AG3 ASSISTANT, can I help you mam?.")
+    print("I'm an AG3 ASSISTANT, can I help you Sushma?.")
 
 
 if __name__ == "__main__":
