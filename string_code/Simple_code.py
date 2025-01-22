@@ -1,14 +1,14 @@
 # 1. Print "Hello, World!"
-'''
+
 print("Hello, World!")
 
 # 2. Write a Python program to print "Hello, World!" to the console.
 print("Hello, World!")
-'''
-# 3.Write a Python program that takes two numbers as input and prints their sum.
-'''Integer'''
 
-"""
+# 3.Write a Python program that takes two numbers as input and prints their sum.
+Integer
+
+
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 
@@ -16,7 +16,7 @@ sum_of_numbers = num1 + num2
 
 print(f"The sum of {num1} and {num2} is {sum_of_numbers}")
 
-'''Float'''
+Float
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 
@@ -25,7 +25,7 @@ sum_of_numbers = num1 + num2
 print(f"The sum of {num1} and {num2} is {sum_of_numbers}")
 """
 # 4. Sum of Two Numbers
-'''Integer'''
+Integer
 
 """
 a = int(input("Enter the first number: "))
@@ -35,7 +35,7 @@ sum1 = a + b
 
 print("The sum is:", sum1)
 
-'''Float'''
+Float
 x = float(input("Enter the first number: "))
 y = float(input("Enter the second number: "))
 
@@ -92,7 +92,7 @@ elif operator == "/":
 else:
     print("Invalid operator!")
 
-"""
+
 # Check Positive or Negative
 
 number = float(input("Enter a number: "))
@@ -115,7 +115,7 @@ else:
 
 
 # 8. Print the Length of a String
-"""
+
 a = input("Enter a string: ")
 length = len(a)
 print(f"The length of the string is : {length}")
@@ -124,10 +124,10 @@ print(f"The length of the string is : {length}")
 user_string = input("Enter a string: ")
 string_length = len(user_string)
 print(f"The length of the string is: {string_length}")
-"""
+
 
 # 10.Check Leap Year
-'''
+
 year = int(input("Enter a year: "))
 if(year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
     print(f"{year} is a leap year")
@@ -166,7 +166,7 @@ while(n>0):
     n=n//10
 print("The number of digits in the number are:",count)
 
-'''
+
 
 ## Check Even or Odd (using a function)
 def check(number):
