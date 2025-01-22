@@ -63,7 +63,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## 💬 Feedback
 Got feedback or questions? Drop me a message!  
-💌 Email: [your-email@example.com](mailto:sharmasushma051@gmail.com)  
+💌 Email: [sharmasushma051@gamil.com](mailto:sharmasushma051@gmail.com)  
 🌐 LinkedIn: [Your LinkedIn](www.linkedin.com/in/sushma-sharma-4b9375168)
 
 ---
